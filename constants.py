@@ -1,0 +1,4 @@
+DEFAULT_SIZE = 9
+BLACK = "X"
+WHITE = "O"
+EMPTY = "."
